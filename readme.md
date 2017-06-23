@@ -1,10 +1,8 @@
-# Awesome Electron [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Sharing Exchanges [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](http://electron.atom.io)
 
-> Useful resources for creating apps with [Electron](http://electron.atom.io)
-
-You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
+> This repo is about SHARING EXCHANGES or messaging frameworks for sharing based on Electron ... it was forked from the [Awesome Electron repo](https://github.com/sindresorhus/awesome-electron) of useful resources for creating apps with [Electron](http://electron.atom.io) ... please, please visit, read, contribute and celebrate the work of the [Awesome Electron repo](https://github.com/sindresorhus/awesome-electron) -- you might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
 
 ## Contents
